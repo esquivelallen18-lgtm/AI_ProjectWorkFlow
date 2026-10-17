@@ -1,7 +1,6 @@
-streamlit
-langchain
-langchain-core
-langchain-openai
+streamlit>=1.40
 pandas
 numpy
 sqlparse
+langchain-core
+langchain-openai
